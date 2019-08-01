@@ -1,6 +1,2 @@
-print ("This line will be printed.")
-
-x = 1
-if x == 1:
-    print ("x is 1")
-    
+#!/usr/bin/env python3.7
+print("Hello, world.")
